@@ -1,6 +1,8 @@
 # About Elephants 
 
-[link to more information](https://en.wikipedia.org/wiki/Elephant)
+[link to more information#1](https://en.wikipedia.org/wiki/Elephant)
+
+[link to more information#2](https://en.wikipedia.org/wiki/Elephant)
 
 ## Important to Know  
 1. Diet: Staples: Grasses, leaves, bamboo, bark, roots. Elephants are also known to eat crops like banana and sugarcane which are grown by farmers. Adult elephants eat 300-400 lbs of food per day.
