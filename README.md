@@ -5,10 +5,9 @@
 [link to more information#2](https://en.wikipedia.org/wiki/Elephant)
 
 ## Important to Know  
-1. Diet: Staples: Grasses, leaves, bamboo, bark, roots. Elephants are also known to eat crops like banana and sugarcane which are grown by farmers. Adult elephants eat 300-400 lbs of food per day.
-2. Population: At the turn of the 20th century, there were a few million African elephants and about 100,000 Asian elephants. Today, there are an estimated 450,000 - 700,000 African elephants and between 35,000 - 40,000 wild Asian elephants.
-3. Population: At the turn of the 20th century, there were a few million African elephants and about 100,000 Asian elephants. Today, there are an estimated 450,000 - 700,000 African elephants and between 35,000 - 40,000 wild Asian elephants.
-4. Behavior: Elephants form deep family bonds and live in tight matriarchal family groups of related females called a herd. The herd is led by the oldest and often largest female in the herd, called a matriarch. Herds consist of 8-100 individuals depending on terrain and family size. When a calf is born, it is raised and protected by the whole matriarchal herd. Males leave the family unit between the ages of 12-15 and may lead solitary lives or live temporarily with other males 
+1. **Diet:** Staples: Grasses, leaves, bamboo, bark, roots. Elephants are also known to eat crops like banana and sugarcane which are grown by farmers. Adult elephants eat 300-400 lbs of food per day.
+2. **Population:** At the turn of the 20th century, there were a few million African elephants and about 100,000 Asian elephants. Today, there are an estimated 450,000 - 700,000 African elephants and between 35,000 - 40,000 wild Asian elephants.
+3. **Behavior:** Elephants form deep family bonds and live in tight matriarchal family groups of related females called a herd. The herd is led by the oldest and often largest female in the herd, called a matriarch. Herds consist of 8-100 individuals depending on terrain and family size. When a calf is born, it is raised and protected by the whole matriarchal herd. Males leave the family unit between the ages of 12-15 and may lead solitary lives or live temporarily with other males 
 
 
 ## Range:
